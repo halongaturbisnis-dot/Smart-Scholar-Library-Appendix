@@ -1,0 +1,5 @@
+{
+  "name": "Smart Scholar Library",
+  "description": "An intelligent academic assistant for summarizing documents into comprehensive insights with visualizations, and generating custom presentation slides automatically using Gemini AI.",
+  "requestFramePermissions": []
+}
